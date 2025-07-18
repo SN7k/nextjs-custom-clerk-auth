@@ -1,4 +1,4 @@
-# 🔐 Next.js Passwordless Authentication with Clerk
+# 🔐 Next.js Custom Login Ui Authentication with Clerk
 
 A modern, reusable authentication system built with **Next.js 14**, **Clerk**, **TypeScript**, and **Tailwind CSS**. Features passwordless email authentication, OAuth integration, and a beautiful custom UI.
 
